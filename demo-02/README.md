@@ -14,6 +14,8 @@ This code uses `Socket.IO` as the server for sending, and receiving SDP messages
 
 ## How to run
 
-`cd demo-02`
-`npm install`
-`node index.js`
+```
+cd demo-02
+npm install
+node index.js
+```

@@ -13,6 +13,8 @@ This code uses `Socket.IO ` for signaling and use `PeerJS` to simplify WebRTC pe
 
 ## How to run
 
-`cd demo-01`
-`npm install`
-`node server.js`
+```
+cd demo-01
+npm install
+node server.js
+```
